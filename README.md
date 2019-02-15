@@ -1,7 +1,7 @@
 # F4_vscode_demo
-# 用法
+## 用法
 clone到本地，基于HAL库的f4工程拉到这个本文件夹中,再用vscode打开，
-# VScode所需插件
+## VScode所需插件
  - PlatformIO IDE   
  - C/C++   
  - C++Intellisense
